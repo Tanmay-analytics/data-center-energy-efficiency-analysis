@@ -1,4 +1,6 @@
-
+-- Data Center Energy Efficiency & Performance Analysis
+-- Author: Tanmay Sharma
+-- Description: SQL queries for data cleaning, aggregation, and analysis
 -- =========================================
 -- 📊 DATA CENTER ENERGY ANALYSIS PROJECT
 -- =========================================
